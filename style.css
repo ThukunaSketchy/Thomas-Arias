@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+.MENU{
+    background: #002bff;
+background: radial-gradient(circle,rgba(0, 43, 255, 1) 0%, rgba(168, 27, 55, 1) 100%);
+    display:flex;
+    justify-content: space-between;
+}
+.imagen img{
+    height: 100px;
+    width: 135px;
+}
+.texto{
+    position: absolute;
+    inset: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Geist Pixel", sans-serif;
+font-size: 80px;
+
+
+
+}
